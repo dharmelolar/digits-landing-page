@@ -113,7 +113,7 @@ p{
    left: 10rem;
 }
 .first img{
-    /* width: 100%; */
+     width: 100%; 
     position: relative;
     top: -15rem;
 }
