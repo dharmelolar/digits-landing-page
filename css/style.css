@@ -207,6 +207,9 @@ position: relative;
     left: 10rem;
     height: 10rem;
 }
+.designs img{
+    width: 100%;
+}
 @media screen and (max-width:320px){
     .first img{
         width: 50%;
@@ -239,4 +242,7 @@ position: relative;
     /* top: 5rem; */
     left: 10rem;
     height: 10rem;
+}
+.designs img{
+    width: 100%;
 }
