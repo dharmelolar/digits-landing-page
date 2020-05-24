@@ -173,3 +173,37 @@ position: relative;
     /* background-color: #1e266c !important;  */
     color: #fff!important;
 }
+
+@media screen and (max-width:414px){
+    .first img{
+        width: 100%;
+        position: relative;
+    top: -13rem;
+    }
+    .second img{
+        width: 100%;
+    }
+}
+.third img{
+    width: 100%;
+}
+.first{
+    width: 15rem;
+    margin-top: 1rem;
+    height: 10rem;
+   position: relative;
+   top: 5rem;
+   left: 10rem;
+}
+.second{
+    width: 12rem;
+    position: relative;
+    top: 3rem;
+}
+.third{
+    width: 10rem;
+    position: relative;
+    /* top: 5rem; */
+    left: 10rem;
+    height: 10rem;
+}
