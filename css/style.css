@@ -174,7 +174,7 @@ position: relative;
     color: #fff!important;
 }
 
-@media screen and (max-width:414px){
+/* @media screen and (max-width:414px){
     .first img{
         width: 100%;
         position: relative;
@@ -246,3 +246,4 @@ position: relative;
 .designs img{
     width: 100%;
 }
+ */
