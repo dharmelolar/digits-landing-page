@@ -96,7 +96,7 @@ p{
     background-color: #fff9ea;
 }
 .designs img{
-    max-width: 150%;
+    max-width: 100%;
 }
 /* header */
 .header{
@@ -105,22 +105,20 @@ p{
 /* help */
 .first{
     background-image: url(../img/rec-4.png);
-    width: 20rem;
+    width: 9rem;
     margin-top: 1rem;
-    height: 23.5rem;
+    height:9rem;
    position: relative;
    top: 5rem;
-   left: 10rem;
+   left: 8rem;
 }
 .first img{
-/*      width: 100%;  */
     position: relative;
-    top: -15rem;
+    top: -5rem;
 }
 .second{
     background-image: url(../img/rec-3.png);
-    width: 15rem;
-    /* padding-right: 3rem; */
+    width: 10rem;
     position: relative;
     top: 3rem;
 }
@@ -130,16 +128,22 @@ p{
 }
 .third{
    background: url(../img/rec-2.png);
-   width: 12rem;
+   width: 8rem;
    position: relative;
-   /* top: 5rem; */
-   left: 13rem;
-   height: 12rem;
+   top: 2rem;
+   left: 8rem;
+   height:8.5rem;
 }
 .third img{
 position: relative;
-    top: -5rem; 
+    top: -3rem; 
 }
+.help img{
+    height: auto;
+    display: block;
+    width: 100%;
+}
+
 .lni-figma{
     background-color: #b5f2e3;
     padding: .3rem;
@@ -174,76 +178,3 @@ position: relative;
     color: #fff!important;
 }
 
-/* @media screen and (max-width:414px){
-    .first img{
-        width: 100%;
-        position: relative;
-    top: -13rem;
-    }
-    .second img{
-        width: 100%;
-    }
-}
-.third img{
-    width: 100%;
-}
-.first{
-    width: 15rem;
-    margin-top: 1rem;
-    height: 10rem;
-   position: relative;
-   top: 5rem;
-   left: 10rem;
-}
-.second{
-    width: 12rem;
-    position: relative;
-    top: 3rem;
-}
-.third{
-    width: 10rem;
-    position: relative;
-    /* top: 5rem; */
-/*     left: 10rem;
-    height: 10rem;
-}
-.designs img{
-    width: 100%;
-}
-@media screen and (max-width:320px){
-    .first img{
-        width: 50%;
-        position: relative;
-    top: -13rem;
-    }
-    .second img{
-        width: 50%;
-    }
-}
-.third img{
-    width: 50%;
-}
-.first{
-    width: 8rem;
-    margin-top: 1rem;
-    height: 8rem;
-   position: relative;
-   top: 5rem;
-   left: 10rem;
-}
-.second{
-    width: 10rem;
-    position: relative;
-    top: 3rem;
-}
-.third{
-    width: 10rem;
-    position: relative; */
-    /* top: 5rem; */
-/*     left: 10rem;
-    height: 10rem;
-}
-.designs img{
-    width: 100%;
-} */
- */
